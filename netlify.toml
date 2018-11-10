@@ -1,5 +1,5 @@
 [build]
 
-base="hello-next-test"
-publish="hello-next-test/out"
+base="hello-next/"
+publish="hello-next/out"
 command="npm run export"
